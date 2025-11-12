@@ -31,4 +31,4 @@ jobs:
     - name: Run Eslint
       run: npm run lint
     - name: Run TypeCheck
-      run: npm run typecheck
+      run: npm run type-check
